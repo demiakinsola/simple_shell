@@ -10,7 +10,7 @@
 void prompt(char *s)
 {
 	int index;
-	int count = 2;
+	int count = 4;
 
 	for (index = 0; index < count; index++)
 		_putchar(s[index]);

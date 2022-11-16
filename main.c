@@ -9,7 +9,7 @@
 
 int main(__attribute__((unused)) int ac, char **argv)
 {
-	char *s = "$ ", *line_cpy, *line_ptr, *line;
+	char *s = "($) ", *line_cpy, *line_ptr, *line;
 	int count, num, ret;/* ret - return value for fork */
 	ssize_t ret_bytes;
 	size_t n = 1;
