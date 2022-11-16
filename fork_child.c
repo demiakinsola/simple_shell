@@ -1,5 +1,5 @@
 #include "main.h"
- 
+
 /**
  * fork_child - This creates a child process and executes a program.
  * @arg: Array of string arguments.
